@@ -12,7 +12,5 @@
 
 ## 📊 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tiaszz)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiaszz)
-
-
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tiaszz)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiaszz)
